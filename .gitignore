@@ -1,0 +1,32 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+*.exe
+*.log
+
+# Image assets (optional — remove if you want to keep them tracked)
+
+
+# Markdown and plaintext logs (optional)
+
+
+# System files
+Thumbs.db
+.DS_Store
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment files
+.env
+*.env
