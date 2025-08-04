@@ -58,9 +58,8 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[itsalaughingman222233@proton.me](mailto:itsalaughingman222233@proton.me).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be 
+reported by filing a confidential issue labeled 'Code of Conduct' in this repository. 
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
