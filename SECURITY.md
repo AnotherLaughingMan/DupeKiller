@@ -6,7 +6,7 @@ We take security seriously. If you discover a vulnerability in DupeKiller, pleas
 
 **Do not** create a public issue. Instead, contact us directly:
 
-📧 Email: [itsalaughingman222233@proton.me](mailto:itsalaughingman222233@proton.me)
+📧 Email: [security.anotherlaughingman@proton.me](mailto:security.anotherlaughingman@proton.me)
 
 Please include:
 
